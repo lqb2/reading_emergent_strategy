@@ -16,6 +16,8 @@ footer: Your Website
 social:
   - title: facebook
     url: https://facebook.com/GroupThatLuanaMakes
+  # - title: email
+  #   url: https://docs.google.com/forms/d/e/1FAIpQLSemIuGUe5YNy_F1_fO5ERDl2mKhTsaNWpOqKlLxyWJzkuh2XQ/viewform?usp=sf_link
   # - title: twitter
   #   url: https://twitter.com/SBootstrap
   # - title: stack-overflow
