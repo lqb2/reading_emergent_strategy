@@ -1,7 +1,7 @@
 # Site settings
 title: Reading Emergent Strategy
-email: your-email@domain.com
-url: https://example.github.io
+email: lqb@alum.mit.edu
+url: https://lqb2.github.io/reading_emergent_strategy/
 description: "We're reading Emergent Strategy in preparation for Adrienne Maree Brown joining us in Boston mid-November. If you're interested in reading along with us, read on."
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -10,14 +10,14 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Your Website
+footer: Emergent Strategy
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: facebook
-    url: https://facebook.com/GroupThatLuanaMakes
+  # - title: facebook
+  #   url: https://facebook.com/GroupThatLuanaMakes
   # - title: email
-  #   url: https://docs.google.com/forms/d/e/1FAIpQLSemIuGUe5YNy_F1_fO5ERDl2mKhTsaNWpOqKlLxyWJzkuh2XQ/viewform?usp=sf_link
+  #   url: mailto:lqb@alum.mit.edu
   # - title: twitter
   #   url: https://twitter.com/SBootstrap
   # - title: stack-overflow
